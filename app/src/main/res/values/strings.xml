@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkApplication</string>
+    <string name="button_name">Send</string>
+    <string name="toast_message">Please enter information before sending! </string>
+    <string name="edit_message">Please enter information</string>
+    <string name="send_message">"The content sent is "</string>
+</resources>
